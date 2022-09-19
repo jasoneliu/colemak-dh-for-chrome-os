@@ -6,6 +6,9 @@
   "background": {
     "scripts": ["background.js"]
   },
+  "icons": {
+    "128": "icon128.png"
+  },
   "permissions": [
     "input"
   ],

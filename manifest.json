@@ -1,10 +1,10 @@
 {
   "name": "Colemak-DH",
-  "version": "1.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "description": "Colemak-DH keyboard",
   "background": {
-    "scripts": ["background.js"]
+    "service_worker": "background.js"
   },
   "icons": {
     "128": "icon128.png"
